@@ -6,21 +6,30 @@
 
 [ZTB.drive]:    https://drive.google.com/drive/folders/1jR8_JwujNg88nPTNkiu_eEaMscBan6oa
 [MTD.drive]:    https://drive.google.com/drive/folders/1uXcKFDGqXiuNpiXognUGiQXM5HXsZa55
+
 [NSB.drive]:    https://drive.google.com/drive/folders/1wx-z-EbPuWvdBh7wo2gYXyK-h0SjmDrE
+[CSSA.drive]:   https://drive.google.com/drive/folders/11DIZh7Q-njGfT7pqV_FFXcPSsjTKHsp7
 
 [MUNR.sheet]:   https://docs.google.com/spreadsheets/d/1JyVsvdJYHTxvKJrzL96fnTgtHTFPieag1SDtYxv75rQ
 [DPU.sheet]:    https://docs.google.com/spreadsheets/d/1D0Gi3rYxGv5iziq6vzbGEA9beZUGBjqvxLi838QHbPU
 
 [0]:            https://docs.google.com/document/d/1I0ub-Dn-8wnYDPwRU2ce8NrtalaloK4-/edit
-[1.lp]:         https://docs.google.com/spreadsheets/d/1nDQBYuM9R7ZEFkjCoAneubkAKEG1CbXZ5eqoeoI5zcM/edit?gid=1029127763#gid=1029127763
-[1.books.MUNR]  https://drive.google.com/drive/folders/1Dd2wmymYK-nu8tFLYhlGT5VhFb-9Y8l2
+[1.lp]:         https://docs.google.com/spreadsheets/d/1nDQBYuM9R7ZEFkjCoAneubkAKEG1CbXZ5eqoeoI5zcM/
+[1.books.MUNR]: https://drive.google.com/drive/folders/1Dd2wmymYK-nu8tFLYhlGT5VhFb-9Y8l2
 [2.labs]:       https://drive.google.com/drive/u/8/folders/1QlzWWaQWhShC1OaWAu8DsKb9oxsoehTl
 [3.exams]:      https://drive.google.com/drive/folders/1ZlAg--XV8KoEeqvY9SiaDYnXc4b3A9CL
+[3.exams.labs]: https://docs.google.com/document/d/1ZEH3ZhQ-G266IdUd2fW6pQleZDZai0zbcAcFYdgGT4g/edit?tab=t.0
 [3.exams.MUNR]: https://drive.google.com/drive/folders/1YzJooBWtJ-Q8C6FZufIMB-7Wougdcc4n
 
 <!--========================================================================================================================-->
 
-
+### How to get 4.0 ?
+1. Watch Lectures on Youtube / Attend Class.
+2. Solve Past Assignments & Quiz
+3. Solve Past Lab Quiz Questions
+4. Solve Past Problem Set
+5. Solve Past mid & final Questions
+6. don't follow lesson plans / outlines / books. Watch 6.006 if you can
 
 ### Central
 - 0.outline         : [🔗][0]
@@ -28,9 +37,11 @@
 - 1.Books.MUNR      : [🔗][1.books.MUNR]
 - 2.labs            : [🔗][2.labs]
 - 3.exams           : [🔗][3.exams]
+- 3.exams.labs      : [🔗][3.exams.labs]
 - 3.exams.MUNR      : [🔗][3.exams.MUNR]
 - Visuals
     - https://visualgo.net/en/sorting
+    - https://algostudio-cse221.netlify.app/
 - Extra materials
     - https://www.comp.nus.edu.sg/~cs1020/tut/15s2/
     - https://www.cs.princeton.edu/courses/archive/spring20/cos226/
@@ -38,17 +49,18 @@
     - https://tbp.studentorg.berkeley.edu/courses/cs/170/
 
 ### Faculty Wise
-- MUNR --- A B M Muntasir Rahman (sp26) [🎬][MUNR.yt] [drive][MUNR.drive] [sheet][MUNR.sheet]
-- FBAW --- Faria Binte Awal ---- (sp26) [🎬][FBAW.yt] [🔗][FBAW.drive]
-- HFN ---- Sheikh Noshin Araf Rhyme     [🎬][HFN.yt] [sp24][HFN.drive] 
-- ZTB ---- Zarin Tasmin Biash -- (su24) [🎬][ZTB.yt] [🔗][ZTB.drive]
-- MTD ---- Mushtari Sadia ------------- [🎬][MTD.yt] [🔗][MTD.drive]
-- DPU ---- Shoaib Ahmed Dipu ---------- [🎬][DPU.yt] [🔗][DPU.sheet]
-- NSB ---- Nahian Salsabil ------------ [🔗][NSB.drive]
-- FGZ ---- Fakhruddin Gazzali Fahim     [🎬][FGZ.yt]
-- FHZ ---- Farhan Feroz Aushi           [🎬][FHZ.yt]
-- MZG ---- Ahmed Mayeesha Reza Agomoni  [🎬][MZG.yt]
-- RAK ---- Rubayet Ahmed Khan           [🎬][RAK.yt]
+- MUNR --- A B M Muntasir Rahman --- (sp26) [🎬][MUNR.yt] [drive][MUNR.drive] [sheet][MUNR.sheet]
+- FBAW --- Faria Binte Awal -------- (sp26) [🎬][FBAW.yt] [🔗][FBAW.drive]
+- HFN ---- Sheikh Noshin Araf Rhyme ------- [🎬][HFN.yt] [sp24][HFN.drive] 
+- ZTB ---- Zarin Tasmin Biash ------ (su24) [🎬][ZTB.yt] [🔗][ZTB.drive]
+- MTD ---- Mushtari Sadia ----------------- [🎬][MTD.yt] [🔗][MTD.drive]
+- DPU ---- Shoaib Ahmed Dipu -------------- [🎬][DPU.yt] [🔗][DPU.sheet]
+- NSB ---- Nahian Salsabil ---------------- [🔗][NSB.drive]
+- CSSA --- Sadman Sakib Alif -------------- [🔗][CSSA.drive]
+- FGZ ---- Fakhruddin Gazzali Fahim ------- [🎬][FGZ.yt]
+- FHZ ---- Farhan Feroz Aushi ------------- [🎬][FHZ.yt]
+- MZG ---- Ahmed Mayeesha Reza Agomoni ---- [🎬][MZG.yt]
+- RAK ---- Rubayet Ahmed Khan ------------- [🎬][RAK.yt]
 - Extras
     - Iterative Time Complexity:                        https://www.youtube.com/playlist?list=PLVqu3pu23LttpphV1fwFIlxHQd3THX7Wj
     - Binary Search:                                    https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j
@@ -58,7 +70,7 @@
 
 <!--========================================================================================================================-->
 
-[DPU.yt]:   https://www.youtube.com/playlist?list=PLDUh101LvvVoiO5oSlxf7yiPau4vl0FMO
+[DPU.yt]:   https://www.youtube.com/playlist?list=PLDUh101LvvVoiO5oSlxf7yiPau4vl0FMOgmai
 [MZG.yt]:   https://www.youtube.com/@AhmedMayeeshaReza_Agomoni
 [HFN.yt]:   https://www.youtube.com/playlist?list=PLgU-6-TtNPAzpauVSPWpKFbmu5Rbc2dEQ
 
