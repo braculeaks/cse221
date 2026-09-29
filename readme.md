@@ -1,6 +1,8 @@
 <!--========================================================================================================================-->
 
 [FBAW.drive]:   https://drive.google.com/drive/folders/1OVPN38z_r3edE_UBgrU7tQ3WlkZrxNjj
+[AYO.sheet]:    https://docs.google.com/spreadsheets/d/19xJBDWuqx9MMnD1M2M3SMHEwZ8IX60HZJ-t7NrQu2vk/
+
 [MUNR.drive]:   https://drive.google.com/drive/folders/1YzJooBWtJ-Q8C6FZufIMB-7Wougdcc4n
 [HFN.drive]:    https://drive.google.com/drive/folders/1hwYjCZrVta9zI47-Haif7XkEeJaCEvLe
 
@@ -24,12 +26,13 @@
 <!--========================================================================================================================-->
 
 ### How to get 4.0 ?
-1. Watch Lectures on Youtube / Attend Class.
-2. Solve Past Assignments & Quiz
-3. Solve Past Lab Quiz Questions
-4. Solve Past Problem Set
-5. Solve Past mid & final Questions
-6. don't follow lesson plans / outlines / books. Watch 6.006 if you can
+```py
+Youtube Lecture/Class --> Past Assignments + Quiz --> Past Lab Quiz --> Past pSet --> Past mid & Final
+```
+
+- Watch Lectures on Youtube / Attend Class.
+    - attend other section extra classes & extra quizes if you can
+- don't follow lesson plans / outlines / books. Watch 6.006 if you can
 
 ### Central
 - 0.outline         : [🔗][0]
@@ -51,6 +54,7 @@
 ### Faculty Wise
 - MUNR --- A B M Muntasir Rahman --- (sp26) [🎬][MUNR.yt] [drive][MUNR.drive] [sheet][MUNR.sheet]
 - FBAW --- Faria Binte Awal -------- (sp26) [🎬][FBAW.yt] [🔗][FBAW.drive]
+- AYO ---- Ariyan Hossain ----------------- [sheet][AYO.sheet]
 - HFN ---- Sheikh Noshin Araf Rhyme ------- [🎬][HFN.yt] [sp24][HFN.drive] 
 - ZTB ---- Zarin Tasmin Biash ------ (su24) [🎬][ZTB.yt] [🔗][ZTB.drive]
 - MTD ---- Mushtari Sadia ----------------- [🎬][MTD.yt] [🔗][MTD.drive]
@@ -62,11 +66,9 @@
 - MZG ---- Ahmed Mayeesha Reza Agomoni ---- [🎬][MZG.yt]
 - RAK ---- Rubayet Ahmed Khan ------------- [🎬][RAK.yt]
 - Extras
-    - Iterative Time Complexity:                        https://www.youtube.com/playlist?list=PLVqu3pu23LttpphV1fwFIlxHQd3THX7Wj
-    - Binary Search:                                    https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j
-    - (Big O) Time complexity calculator :              https://www.bigocalc.com/
-
-
+    - Iterative Time Complexity:            https://www.youtube.com/playlist?list=PLVqu3pu23LttpphV1fwFIlxHQd3THX7Wj
+    - Binary Search:                        https://www.youtube.com/playlist?list=PL2_aWCzGMAwL3ldWlrii6YeLszojgH77j
+    - (Big O) Time complexity calculator:   https://www.bigocalc.com/
 
 <!--========================================================================================================================-->
 
