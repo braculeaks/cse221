@@ -1,7 +1,8 @@
 <!--========================================================================================================================-->
 
 [FBAW.drive]:   https://drive.google.com/drive/folders/1OVPN38z_r3edE_UBgrU7tQ3WlkZrxNjj
-[AYO.sheet]:    https://docs.google.com/spreadsheets/d/19xJBDWuqx9MMnD1M2M3SMHEwZ8IX60HZJ-t7NrQu2vk/
+[AYO.su26]:     https://docs.google.com/spreadsheets/d/19xJBDWuqx9MMnD1M2M3SMHEwZ8IX60HZJ-t7NrQu2vk/
+[AYO.fa25]:     https://docs.google.com/spreadsheets/d/1ZcMMnk4UEPrlD5R-ziy8_pPdZ4OlLcineKvrrOgr9lA
 
 [MUNR.drive]:   https://drive.google.com/drive/folders/1YzJooBWtJ-Q8C6FZufIMB-7Wougdcc4n
 [HFN.drive]:    https://drive.google.com/drive/folders/1hwYjCZrVta9zI47-Haif7XkEeJaCEvLe
@@ -27,12 +28,22 @@
 
 ### How to get 4.0 ?
 ```py
-Youtube Lecture/Class --> Past Assignments + Quiz --> Past Lab Quiz --> Past pSet --> Past mid & Final
-```
+cse221 
+Lab Curriculumn != Theory Curriculumn
+Lab & Theory wont be in Sync
 
-- Watch Lectures on Youtube / Attend Class.
-    - attend other section extra classes & extra quizes if you can
-- don't follow lesson plans / outlines / books. Watch 6.006 if you can
+Youtube/Class --> Slides + Notes
+              --> Past Theory Assignmen
+              --> Past Theory pSet
+              --> Past Theory Quiz
+              --> Past mid & Final
+              --> Past Lab Assignment
+              --> Past Lab Quiz
+              --> Attend Lab 
+              
+Watch MIT OCW 6.006 if you can
+Do BRACU.cse199 on BuX if you can (By Arman Ferdous)
+```
 
 ### Central
 - 0.outline         : [🔗][0]
@@ -54,7 +65,7 @@ Youtube Lecture/Class --> Past Assignments + Quiz --> Past Lab Quiz --> Past pSe
 ### Faculty Wise
 - MUNR --- A B M Muntasir Rahman --- (sp26) [🎬][MUNR.yt] [drive][MUNR.drive] [sheet][MUNR.sheet]
 - FBAW --- Faria Binte Awal -------- (sp26) [🎬][FBAW.yt] [🔗][FBAW.drive]
-- AYO ---- Ariyan Hossain ----------------- [sheet][AYO.sheet]
+- AYO ---- Ariyan Hossain ----------------- [su26][AYO.su26] | [fa25][AYO.fa25] | has 🎬 inside
 - HFN ---- Sheikh Noshin Araf Rhyme ------- [🎬][HFN.yt] [sp24][HFN.drive] 
 - ZTB ---- Zarin Tasmin Biash ------ (su24) [🎬][ZTB.yt] [🔗][ZTB.drive]
 - MTD ---- Mushtari Sadia ----------------- [🎬][MTD.yt] [🔗][MTD.drive]

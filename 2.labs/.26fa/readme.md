@@ -1,0 +1,1 @@
+Lab 1 - Assignment: https://codeforces.com/gym/722945
